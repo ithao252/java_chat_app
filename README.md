@@ -4,4 +4,5 @@
 3. Cho phép quản lý danh sách server cho client như: thêm/sửa/xóa và ghi nhớ dạng file config
 4. Đăng ký chat user từ ứng dụng client
 5. Khung chat đẩy đủ với tất cả thông tin người chat, nội dung chat
-
+# Tech stack:
+Java core, Java I/O, Java Networking (socket), multithreading
